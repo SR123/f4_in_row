@@ -3,7 +3,6 @@
 //  MinMaxAlgorithm
 //
 //  Created by Hamad Almarri on 12/14/2013.
-//  Copyright (c) 2013 Hamad Almarri. All rights reserved.
 //
 
 #include "MinMaxAlgorithm.h"

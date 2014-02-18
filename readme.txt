@@ -1,4 +1,4 @@
-This project is a four in row game that has been written in C++
+This project is a four in row game (player vs computer) that has been written in C++
 The algorithm that I used is min-max algorithm after that I have added alpha-beta functionality to reduce the number of node generated.
 
 In this project the user able to set the depth since the algorithm uses depth-first search.

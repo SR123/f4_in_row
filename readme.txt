@@ -1,7 +1,7 @@
 This project is a four in row game that has been written in C++
-The algorithm that I used at beginning is min-max algorithm after that I have added alpha-beta functionality to reduce the number of node generated.
+The algorithm that I used is min-max algorithm after that I have added alpha-beta functionality to reduce the number of node generated.
 
-In this project the use able to set the depth since the algorithm uses depth-first search.
+In this project the user able to set the depth since the algorithm uses depth-first search.
 
 choosing depth to be 7 is the best in terms of memory performance, which consume around 25M.
 
